@@ -1,0 +1,44 @@
+body{
+  background-color: #eaf6f6;
+}
+h1,h2{
+  color:#66bfbf;
+
+}
+
+hr{
+  border-width: 5px;
+  border-style: dotted none none none;
+  width:100px;
+  color:grey;
+  margin:50px auto;
+
+}
+ul{
+  line-height: 200%;
+}
+
+form{
+  line-height: 2rem;
+}
+
+.list{
+font-size:120%;
+}
+.table1{
+
+width:60%;
+}
+
+.td1{
+  width:200px;
+}
+.b, .a{
+  width:60%;
+}
+.btn{
+  font-size: 150%;
+  background-color: black;
+  color:white;
+  border-radius:10px;
+}
